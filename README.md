@@ -7,9 +7,13 @@ The following is still a draft and is subject to change. Please look at this rep
 Name | Date Last Updated | Version
 ------- | ------- | -------
 Rawrshak Litepaper | 10/22/2021 | v.3.2
-RAWR Tokenomics | 12/04/2021 | v.1.4
-Rawrshak Governance | 12/04/2021 | v.0.2
+RAWR Tokenomics | 12/06/2021 | v.1.5
+Rawrshak Governance | 12/06/2021 | v.0.3
 Rawrshak Governance Research | 12/04/2021 | v.0.1
+
+### 12/06/2021
+- Update RAWR Tokenomics to v.1.5
+- Added Rawrshak Governance litepaper v.0.3
 
 ### 12/04/2021
 - Update RAWR Tokenomics to v.1.4
